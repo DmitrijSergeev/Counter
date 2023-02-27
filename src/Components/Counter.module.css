@@ -1,0 +1,40 @@
+.counter{
+    display: inline-block;
+    position: relative;
+    border: gray 5px solid;
+    width: 650px;
+    height: 400px;
+    margin: 80px 400px;
+    border-radius: 5px;
+}
+.title{
+    position: absolute;
+    margin-left: 270px;
+}
+.num{
+    position: absolute;
+    margin-left: 320px;
+    margin-top: 150px;
+    font-size: xxx-large;
+}
+.box{
+    display: inline-block;
+    position: absolute;
+    margin-top: 220px;
+    margin-left: 250px;
+}
+.inc{
+    position: absolute;
+    margin-left: 0px;
+    border: black 2px solid;
+    border-radius: 3px;
+    padding: 10px;
+}
+.reset{
+    position: absolute;
+    margin-left: 120px;
+    border: black 2px solid;
+    border-radius: 3px;
+    padding: 10px;
+}
+
